@@ -13,4 +13,6 @@ This repository contains the code and documentation for the **Arabic Medical Tex
   - Feature engineering
   - Transformer-based models 
   - Model evaluation and selection
+
+  
 The dataset used in this project is confidential and cannot be shared publicly due to privacy concerns.
